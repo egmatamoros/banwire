@@ -1,0 +1,38 @@
+.card {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px auto;
+  max-width: 500px;
+  text-align: center;
+  background-color: purple;
+  color: white;
+}
+
+h2 {
+  font-size: 24px;
+  margin: 10px 0;
+}
+
+h4 {
+  font-size: 16px;
+  margin: 10px 0;
+}
+
+img {
+  max-width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+a{
+  display: block;
+  font-size: 16pt;
+  width: 60%;
+  margin: auto;
+  padding: 10px 20px;
+  background: linear-gradient(to bottom,#00e1ff,#1985b8);
+  text-decoration: none;
+  color: #000000;
+  font-weight: bold;
+  border-radius: 5px;
+
+}
